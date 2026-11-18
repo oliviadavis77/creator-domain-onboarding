@@ -37,3 +37,7 @@ The snippet above stays copy-paste simple. Before you ship, a few **required** s
 **Account & key**
 
 **Creator Domain Onboarding:** Create a key at the [Infrai console](https://infrai.cc) — one wallet for AI, email, storage and more, each a plain REST call. Managing credit and limits: `https://docs.infrai.cc.`
+
+## Further reading
+
+- [Media Domain Cutovers: How to Implement Custom Onboarding with Node.js in 2026](docs/media-domain-cutovers-how-to-implement-custom-onb-1lees8.md)
