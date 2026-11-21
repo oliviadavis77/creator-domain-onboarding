@@ -40,4 +40,5 @@ The snippet above stays copy-paste simple. Before you ship, a few **required** s
 
 ## Further reading
 
+- [Marketplace Domains: Reconcile DNS Inventory Before Automation Schedules Tenant Changes](docs/marketplace-domains-reconcile-dns-inventory-befor-mfsfr.md)
 - [Media Domain Cutovers: How to Implement Custom Onboarding with Node.js in 2026](docs/media-domain-cutovers-how-to-implement-custom-onb-1lees8.md)
